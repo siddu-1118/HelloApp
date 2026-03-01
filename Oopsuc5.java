@@ -7,7 +7,7 @@ public class Oopsuc5 {
             String.join(" ", " *  * ", " *  * ", " ****** ", " ******** "),
             String.join(" ", " *  * ", " *  * ", " *      ", "        * "),
             String.join(" ", " *  * ", " *  * ", " *      ", "        * "),
-            String.join(" ", " **** ", " **** ", " *      ", " ******** ")
+            String.join(" ", " **** ", " **** ", " *      ", " ******** ")	
         };
         for (String line : bannerLines) {
             System.out.println(line);
